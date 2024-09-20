@@ -3,6 +3,7 @@ program acc_rej
   integer :: i,n,pt_curve
   real :: x,p,y,integral,exact
 
+
   write(*,*) "Give the value of n: "
   read(*,*) n
 
